@@ -1,1 +1,1 @@
-This file was created by IntelliJ IDEA 10.5.1 for binding GitHub repository
+Little modification to maven-ejb-plugin to let it manage a different rebel.xml in ejb-client jars (named client.rebel.xml and set in src/main/resources);Made to be used with Glassfish 3.x and JRebel 4.x 
